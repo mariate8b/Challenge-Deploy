@@ -27,6 +27,7 @@ npm install
 2. Install dependencies for the Backend folder
 ```
 cd ../Backend
+
 npm install
 ```
 3. Start the application
@@ -36,7 +37,7 @@ npm start
 ```
 To start the backend, go to the Backend folder and run:
 ```
-npm start
+node server.js
 ```
 This will start both the frontend and backend of the application, ensuring that the full MERN stack is running locally.
 
