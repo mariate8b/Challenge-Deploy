@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a MERN (MongoDB, Express.js, React.js, Node.js) stack application divided into two main folders:
+This is a Express.js, React.js, Node.js stack application divided into two main folders:
 
 - **Deploy**: Contains the frontend code built with React.js, Typescript, TailwindCSS and JEST (React Testing Library).
 - **Backend**: Contains the backend code built with Node.js and Express.js.
